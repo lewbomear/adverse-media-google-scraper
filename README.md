@@ -1,2 +1,0 @@
-# Adverse Media Google Scraper
-

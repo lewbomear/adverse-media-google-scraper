@@ -1,3 +1,5 @@
 /venv
 .env
 notebook.py
+another_file.py
+git_file.py
