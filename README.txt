@@ -14,7 +14,7 @@ The project aims to facilitate the preliminary stages of the due diligence and t
 
 ## Getting Started
 
-Installation guidelines to be updated.
+Installation guidelines to be updated soon.
 
 ### Prerequisites
 
