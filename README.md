@@ -1,1 +1,0 @@
-# adverse-media-google-scraper
