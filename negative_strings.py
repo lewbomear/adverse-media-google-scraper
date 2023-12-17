@@ -1,0 +1,1 @@
+english = "AND court OR launder OR fraud OR bribe OR corrupt OR arrest OR blackmail OR breach OR convict OR embezzle OR extort OR felon OR fined OR guilt OR illegal OR imprison OR jail OR kickback OR litigation OR mafia OR murder OR prosecute OR terrorism OR theft OR unlawful OR verdict OR poison OR malpractice OR sued OR lawsuit OR arbitration"
